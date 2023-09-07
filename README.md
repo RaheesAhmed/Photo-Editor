@@ -1,12 +1,9 @@
-# Photo-Editor
-A photo editor app using Streamlit Python and Pillow .
+#Advanced Image Editor
+Advanced Image Editor is a web-based application that provides a range of image editing features. Built using Python, Streamlit, and the PIL library, this editor offers a user-friendly interface to apply various edits to your images.
 
 # Advanced Image Editor![photo](https://github.com/RaheesAhmed/Photo-Editor/assets/48914925/23993eaf-daea-46a9-98ac-5fd2651296b2)
 
 
-![App Screenshot](./)
-
-Advanced Image Editor is a web-based application that provides a range of image editing features. Built using Python, Streamlit, and the PIL library, this editor offers a user-friendly interface to apply various edits to your images.
 
 ## 📑 Table of Contents
 
@@ -48,8 +45,6 @@ pip install pillow streamlit
 - PIL (Pillow)
 
 
-```
-
 # 💻 Usage
 Run the Streamlit app:
 
@@ -58,12 +53,12 @@ streamlit run main.py
 ```
 This will open the app in a new web browser window. Upload your image and use the sidebar to apply various edits.
 
-# 👥 Contributing
+##  👥 Contributing
 Fork the repository
 Create your feature branch (git checkout -b feature/fooBar)
 Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
 Create a new Pull Request
-# 📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
